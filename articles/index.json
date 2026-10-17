@@ -1,10 +1,59 @@
 {
   "articles": [
     {
+      "slug": "spectacled-cobra",
+      "title": "Spectacled cobra",
+      "summary": "The hood, the spectacle mark, and why a raised rat snake is not the same animal.",
+      "updated": "2026-10-17",
+      "author": "NipunSGeeTH",
+      "image": "images/spectacled-cobra.jpg"
+    },
+    {
+      "slug": "russells-viper",
+      "title": "Russell's viper",
+      "summary": "Oval spots, a triangular head, and how a python can look similar.",
+      "updated": "2026-10-17",
+      "author": "NipunSGeeTH",
+      "image": "images/russells-viper.jpg"
+    },
+    {
+      "slug": "common-krait",
+      "title": "Common krait",
+      "summary": "Thin pale bands, and why the wide catalog can miss this species.",
+      "updated": "2026-10-17",
+      "author": "NipunSGeeTH",
+      "image": "images/common-krait.jpg"
+    },
+    {
+      "slug": "hump-nosed-pit-viper",
+      "title": "Hump-nosed pit viper",
+      "summary": "A small Sri Lankan and Indian viper that the camera models do not list.",
+      "updated": "2026-10-17",
+      "author": "NipunSGeeTH",
+      "image": "images/hump-nosed-pit-viper.jpg"
+    },
+    {
+      "slug": "saw-scaled-viper",
+      "title": "Saw-scaled viper",
+      "summary": "A small, camouflaged viper. The rasping sound is not in the photo.",
+      "updated": "2026-10-17",
+      "author": "NipunSGeeTH",
+      "image": "images/saw-scaled-viper.jpg"
+    },
+    {
+      "slug": "king-cobra",
+      "title": "King cobra",
+      "summary": "A very long hooded snake, and not the same animal as a spectacled cobra.",
+      "updated": "2026-10-17",
+      "author": "NipunSGeeTH",
+      "image": "images/king-cobra.jpg"
+    },
+    {
       "slug": "how-to-photograph",
       "title": "How to photograph a snake",
       "summary": "Distance, the whole animal, and the head. What makes a photo usable.",
       "updated": "2026-10-17",
+      "author": "NipunSGeeTH",
       "image": "images/how-to-photograph.jpg"
     },
     {
@@ -12,6 +61,7 @@
       "title": "How to read a result",
       "summary": "What the name, the percentage, and a low-confidence flag mean.",
       "updated": "2026-10-17",
+      "author": "NipunSGeeTH",
       "image": "images/reading-a-result.jpg"
     },
     {
@@ -19,6 +69,7 @@
       "title": "The two models",
       "summary": "Why the app checks for a snake first, then offers a small model and a wide catalog.",
       "updated": "2026-10-17",
+      "author": "NipunSGeeTH",
       "image": "images/two-models.jpg"
     },
     {
@@ -26,6 +77,7 @@
       "title": "Look-alikes",
       "summary": "Cobras and rat snakes, kraits and wolf snakes, vipers and pythons.",
       "updated": "2026-10-17",
+      "author": "NipunSGeeTH",
       "image": "images/look-alikes.jpg"
     }
   ]
